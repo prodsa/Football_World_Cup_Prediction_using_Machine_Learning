@@ -1,0 +1,2 @@
+# world_cup_2018_prediction
+The aim of the project is to collect and prepare data about FIFA-2018 football world cup approved players with a huge selection of attributes like basic player information, performance features, and playing position data. The objectives achieved are as follows: (1) Calculate the match outcomes according to team ratings through data exploration. (2) Check credibility of team ratings based on player performance attributes through prediction. 
