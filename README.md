@@ -6,3 +6,7 @@ Dataset Description: The ‘FIFA 18 Complete Player Dataset’ contains statisti
 (2) Player performance attributes (Overall, Potential, Aggression, Agility etc.)
 (3) Player preferred position and ratings at all positions.
 The data is scraped from the website https://sofifa.com by extracting the player statistics using a scraping program developed in python. This dataset is also available at Kaggle: https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset
+
+
+Reference for Python Scraper:
+https://github.com/amanthedorkknight/fifa18-all-player-statistics
